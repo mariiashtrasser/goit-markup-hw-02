@@ -146,7 +146,7 @@ ul, ol {
 
 .footer{
     background-color: #2e2f42;
-    color:#ffffff;
+    color:#F4F4FD;
 }
 
 .footer-logo {
@@ -154,11 +154,11 @@ ul, ol {
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     color: #4d5ae5;
 }
 
 .footer-logo-accent {
-    color: #ffffff;
+    color: #f4f4fd;
 }
