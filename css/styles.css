@@ -30,16 +30,19 @@ ul, ol {
 .section-headline {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
     color:#2e2f42;
 }
 
-.headline-h3 {
+.section-subheadline {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .body-text {
@@ -135,6 +138,10 @@ ul, ol {
 
 .team {
     background-color: #F4F4FD ;
+}
+
+.team-item{
+    background-color: #ffffff;
 }
 
 .footer{
