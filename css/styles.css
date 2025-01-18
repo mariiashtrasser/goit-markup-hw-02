@@ -67,7 +67,7 @@ ul, ol {
     color:#2e2f42;
 }
 
-.header-menu-link:active{
+.header-menu-link:focus{
     color: #404bbf;
 }
 
@@ -80,7 +80,7 @@ ul, ol {
     font-weight: 400;
     font-style: normal;
     line-height: 1.5;
-    letter-spacing: -0.02em;
+    letter-spacing: 0.02em;
     color:#434455;
 }
 
@@ -88,7 +88,7 @@ ul, ol {
     color:#404bbf;
 }
 
-.address-link:active {
+.address-link:focus {
     color:#404bbf;
 }
 
